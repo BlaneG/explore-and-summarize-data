@@ -1,0 +1,14 @@
+References for Project 3
+
+Dplyr and pipes: the basics - http://seananderson.ca/2014/09/13/dplyr-intro.html
+Data wrangling with dplyr and tidyr - http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+shapes and line types in R - http://www.cookbook-r.com/Graphs/Shapes_and_line_types/
+colors in R - http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette
+			- http://simplystatistics.org/2011/10/17/colors-in-r/
+converting factors to integers - http://www.r-bloggers.com/tricks-i-learned-today-1-as-integer-on-factor-levels/
+melting a wide dataframe - http://stackoverflow.com/questions/11346880/r-plot-multiple-box-plots-using-columns-from-data-frame
+Plotting multiple plots with gridExtra - http://www.r-bloggers.com/gridextra-%E2%80%93-multiple-plots-from-ggplot2/
+Creating a facetgrid using data from each column - http://stackoverflow.com/questions/13035834/plot-every-column-in-a-data-frame-as-a-histogram-on-one-page-using-ggplot
+reversing order of plotting colors - https://groups.google.com/forum/#!topic/ggplot2/wKfOaSxcDCI
+plot labelling with the `labs()` function - http://svitsrv25.epfl.ch/R-doc/library/ggplot2/html/labs-df.html
+adding density plots to x- and y-axis - http://www.r-bloggers.com/ggplot2-cheatsheet-for-visualizing-distributions/
