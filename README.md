@@ -1,4 +1,7 @@
 # explore-and-summarize-data
+
+Check out the analysis and summary [here](https://htmlpreview.github.io/?https://github.com/BlaneG/explore-and-summarize-data/blob/master/Red_Wine_Analysis.html)
+
 These files explore the reslationship between red wine attributes and quality.
 They were put together during my participation in Udacity's course Data Analysis 
 with R.  The analysis is based on the dataset found in:  P. Cortez, A. Cerdeira, 
